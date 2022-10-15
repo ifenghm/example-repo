@@ -37,5 +37,3 @@ For example, the ssh url for this repo is: *git@github.com:hm-software-eng/examp
 Now, you can push your changes to the repo for all to see with `git push --set-upstream origin main`
 
 From now on, you can push changes with just `git push` changes. 
-
-echo "Hi!"; read name; echo "Hi $name mid name btw"; read iceCream; say -v Diego "mid $iceCream icecream for mid $name lol"
